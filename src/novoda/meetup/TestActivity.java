@@ -12,4 +12,9 @@ public class TestActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    
+    public int veryComplexAdditionMethod(int one, int two) {
+    	http://novoda.com is awesome
+    	return one + two;
+    }
 }
